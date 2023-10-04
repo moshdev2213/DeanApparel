@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<web-app xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://xmlns.jcp.org/xml/ns/javaee" xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/javaee http://xmlns.jcp.org/xml/ns/javaee/web-app_4_0.xsd" id="WebApp_ID" version="4.0">
+
+ 
+	
+	 <servlet>
+
+ 		<servlet-name>insertfinan</servlet-name>
+ 		<servlet-class>FinanceManagement.insertfinan</servlet-class>
+ 
+  </servlet>
+  <servlet-mapping>
+  	 <servlet-name>insertfinan</servlet-name>
+ 	 <url-pattern>/ins</url-pattern>
+  </servlet-mapping>
+  
+  <servlet>
+
+ 		<servlet-name>search_payment</servlet-name>
+ 		<servlet-class>FinanceManagement.search_payment</servlet-class>
+ 
+  </servlet>
+  <servlet-mapping>
+  	 <servlet-name>search_payment</servlet-name>
+ 	 <url-pattern>/ser</url-pattern>
+  </servlet-mapping>
+  
+  
+  <servlet>
+
+ 		<servlet-name>updatePayment</servlet-name>
+ 		<servlet-class>FinanceManagement.updatePayment</servlet-class>
+ 
+  </servlet>
+  <servlet-mapping>
+  	 <servlet-name>updatePayment</servlet-name>
+ 	 <url-pattern>/PAYupdate</url-pattern>
+  </servlet-mapping>
+	
+	
+	
+	 <servlet>
+
+ 		<servlet-name>deletePayment</servlet-name>
+ 		<servlet-class>FinanceManagement.deletePayment</servlet-class>
+ 
+  </servlet>
+  <servlet-mapping>
+  	 <servlet-name>deletePayment</servlet-name>
+ 	 <url-pattern>/Deletepayment</url-pattern>
+  </servlet-mapping>
+	
+ 
+
+  <display-name>Dean_Apparels</display-name>
+  <welcome-file-list>
+    <welcome-file>index.html</welcome-file>
+  </welcome-file-list>
+
+
+</web-app>

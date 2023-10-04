@@ -1,0 +1,12 @@
+background of presentation
+Dean Apparels is a company that specializes in the creation and sale of men's clothing. While the company has been successful thus far, they recognized that manual management was becoming increasingly difficult to maintain.
+
+In order to address these issues, Dean Apparels implemented an ERP system. This system allows for better management of their business operations, including inventory, sales, and customer data. With the ERP system, Dean Apparels can reduce errors and improve their overall productivity.
+
+One of the main advantages of the ERP system is its ability to generate reports in real-time. This feature provides Dean Apparels with valuable insights into their business operations, such as sales trends and inventory levels. This information can be used to make data-driven decisions, leading to increased marketability and profitability.
+
+With the implementation of the ERP system, Dean Apparels can now manipulate customer data in a more efficient manner. This includes tracking customer orders, preferences, and feedback. By having this data readily available, Dean Apparels can better meet their customer needs, leading to increased customer satisfaction and loyalty.
+
+Finally, the ERP system allows for the collection of customer feedback in a centralized location. This feedback can be used to identify areas for improvement and help Dean Apparels make more informed decisions about their products and services. Overall, the implementation of the ERP system has been instrumental in helping Dean Apparels achieve their business goals and remain competitive in the market.
+
+

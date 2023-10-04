@@ -1,0 +1,28 @@
+Sure, here's an example of a literature review comparing two ERP systems, Oracle ERP Cloud and SAP S/4HANA:
+
+Introduction:
+Enterprise Resource Planning (ERP) systems have become crucial for businesses to manage their operations effectively. Two of the most popular ERP systems in the market are Oracle ERP Cloud and SAP S/4HANA. This literature review aims to critically review each of these systems and their suitability for the client's problem.
+
+Oracle ERP Cloud:
+Oracle ERP Cloud is a cloud-based ERP system that provides a wide range of functionalities including financial management, supply chain management, and human capital management. One of the main advantages of Oracle ERP Cloud is its flexibility and scalability, allowing businesses to easily customize the system to their specific needs. The system is also highly intuitive and easy to use, which can reduce training costs and increase user adoption. However, one of the major drawbacks of Oracle ERP Cloud is its cost. The system can be expensive, especially for small businesses with limited budgets.
+
+SAP S/4HANA:
+SAP S/4HANA is an on-premise and cloud-based ERP system that offers a range of functionalities including finance, logistics, and supply chain management. One of the main advantages of SAP S/4HANA is its real-time analytics and reporting capabilities, which can provide businesses with insights to make informed decisions. The system is also highly scalable and customizable, which can allow businesses to adapt the system to their changing needs. However, one of the main drawbacks of SAP S/4HANA is its complexity. The system can be challenging to implement and maintain, which can require a significant investment in terms of time and resources.
+
+Conclusion:
+Both Oracle ERP Cloud and SAP S/4HANA are powerful ERP systems that offer a range of functionalities to manage business operations effectively. However, for the client's problem, neither of these systems may be the best fit. The cost of Oracle ERP Cloud may be too high for the client's limited budget, while the complexity of SAP S/4HANA may require more resources than the client can afford. Therefore, a new system should be developed that is tailored to the client's specific needs and budget constraints.
+
+--------------------------------------------------------------------
+Sure, here are some additional cons of using SAP S/4HANA:
+
+High implementation costs: Implementing SAP S/4HANA can be expensive due to the cost of hardware, software licenses, and consulting fees.
+
+Complex and time-consuming implementation process: Implementing SAP S/4HANA requires significant time and resources to configure and customize the software to meet the specific needs of the organization.
+
+Limited flexibility: SAP S/4HANA is a highly structured system, which can limit the flexibility of the organization to adapt to changing business requirements.
+
+Heavy resource utilization: SAP S/4HANA requires significant computing resources to run, which can be a challenge for smaller organizations with limited IT budgets.
+
+Potential for data loss: Data migration during implementation can be complex and errors can occur, leading to data loss or corruption.
+
+High training costs: Training employees to use SAP S/4HANA can be time-consuming and expensive, especially for smaller organizations with limited training budgets.
