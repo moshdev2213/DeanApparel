@@ -11,7 +11,7 @@
 ### Mr.Bandara D.M.J.K
 ### Mr. Jayasinghe S.V.M.T
 
-#### Brief Description of Project - Dean Apparels is a small business in Kurunegala that focuses on creating, producing, and selling men's fashion clothing. It has a large following of customers due to its distinctive designs and superior goods. To maximize product output with quality, the business has implemented an ERP system to automate activities such as sales, inventory, production, and financial management. The ERP system will help the business fulfill the rising demand for their goods and boost their marketability.
+####Dean Apparels is a small business in Kurunegala that focuses on creating, producing, and selling men's fashion clothing. It has a large following of customers due to its distinctive designs and superior goods. To maximize product output with quality, the business has implemented an ERP system to automate activities such as sales, inventory, production, and financial management. The ERP system will help the business fulfill the rising demand for their goods and boost their marketability.
 #### Technologies used - JAVA EE (Servlets)
 
 
