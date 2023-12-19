@@ -1,7 +1,7 @@
 
 ![itp](https://github.com/moshdev2213/DeanApparel/assets/103739510/2743c9b5-4777-469a-a0dd-a9278abffb14)
 
-# Project Name - Dean Apparels Pvt.ltd
+# Project - Dean Apparels Pvt. ltd
 ### Mr. Shabeer MSM (mosh2213)
 ### Mr.Ranathunga S.W.H.D.D
 ### Mr.Yapa.Y.M.T.N.S.
